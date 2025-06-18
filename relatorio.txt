@@ -1,3 +1,7 @@
 Nome: Giovanna Souza Correia
 Email: giovannacorreiadev@gmail.com
 Usuário git: giovanna-correia
+
+Nome: Elyvan Bernardino da Silva
+E-mail: elyvanbs@gmail.com
+Usuário git: @Elyvanbs
